@@ -1,0 +1,6 @@
+{
+  "name": "HabitCoach AI",
+  "description": "Supportive, science-backed daily micro-habit tracker and personal productivity coach in friendly Hinglish, Hindi, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
